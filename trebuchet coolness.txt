@@ -1,0 +1,5 @@
+Cool bits about the program I liked:
+- friction coefficient is in metre
+- conservation of angular momentum
+- implicitly differentiating the equation of b when in slide
+- calculating release velocity
